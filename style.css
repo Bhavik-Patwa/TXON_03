@@ -84,7 +84,6 @@ body{
   pointer-events: none;
   transition: transform 0.25s ease;
   background: linear-gradient(135deg, #17d1fb 40%, #edfe2d 100%);
-
 }
 .clear-btn.active{
   opacity: 0.9;
